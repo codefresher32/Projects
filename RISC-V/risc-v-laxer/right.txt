@@ -1,0 +1,5 @@
+Line 2: add a0,x0,x1
+Line 4: ecall
+Line 5: li a3,5
+Line 8: subi a7,x0,64
+Line 9: ecall

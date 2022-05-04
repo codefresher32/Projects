@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1651498198 source:c:\users\mosta\desktop\risc-v-laxer\main.cpp
+	<bits/stdc++.h>
+	"token.h"
+	"preprocessing.h"
+	"generategrammer.h"
+	"validgrammer.h"
+
+1651499062 c:\users\mosta\desktop\risc-v-laxer\preprocessing.h
+	<string>
+	"token.h"
+
+1651499187 source:c:\users\mosta\desktop\risc-v-laxer\preprocessing.cpp
+	<string>
+	"preprocessing.h"
+
+1651499410 source:c:\users\mosta\desktop\risc-v-laxer\generategrammer.cpp
+	<string>
+	<vector>
+	"generategrammer.h"
+
+1651499346 c:\users\mosta\desktop\risc-v-laxer\generategrammer.h
+	<string>
+	<vector>
+	"token.h"
+
+1651482184 c:\users\mosta\desktop\risc-v-laxer\ruletoken.h
+	<string>
+	<map>
+	<set>
+
+1651498049 c:\users\mosta\desktop\risc-v-laxer\validgrammer.h
+	<bits/stdc++.h>
+	"token.h"
+
+1651498126 source:c:\users\mosta\desktop\risc-v-laxer\validgrammer.cpp
+	<bits/stdc++.h>
+	"validgrammer.h"
+
+1651499050 source:c:\users\mosta\desktop\risc-v-laxer\token.cpp
+	<string>
+	"token.h"
+
+1651498951 c:\users\mosta\desktop\risc-v-laxer\token.h
+	<string>
+

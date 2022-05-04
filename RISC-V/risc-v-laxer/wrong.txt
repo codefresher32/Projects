@@ -1,0 +1,4 @@
+Line 1: addi a2,x0,(5)
+Line 3: la a1,hello
+Line 6: la a3
+Line 7: addi x0,x1
